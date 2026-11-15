@@ -3,7 +3,7 @@
 **Researcher · Climate Change · Cryosphere & Hydrology · Remote Sensing / GIS · Geospatial Data Analysis**<br>
 University of Kashmir, Srinagar
 
-I study how climate change affects water resources in the Himalaya, especially **snow cover, glaciers and streamflow**. My main tools are **remote sensing** and **GIS**, along with Python-based geospatial data analysis.
+I study how climate change affects water resources in the Himalaya, especially **snow cover, glaciers and streamflow**. My main tools are **remote sensing** and **GIS**, along with Python-based geospatial data analysis and machine learning.
 
 ---
 
@@ -20,11 +20,11 @@ I study how climate change affects water resources in the Himalaya, especially *
 | Area | Tools |
 |---|---|
 | **Languages** | Python, SQL |
-| **Remote sensing & GIS** | QGIS, ArcGIS, Google Earth Engine |
-| **Geospatial Python** | GDAL, Rasterio, GeoPandas, Xarray |
-| **Data analysis** | Pandas, NumPy, statistical analysis |
-| **Databases** | PostgreSQL / PostGIS |
-| **Visualisation** | Matplotlib, map design and cartography |
+| **Remote sensing & GIS** | QGIS, ArcGIS, Google Earth Engine (Python API) |
+| **Geospatial Python** | GDAL, Rasterio, GeoPandas, Shapely, Fiona, Xarray |
+| **Data analysis & ML** | NumPy, Pandas, machine learning (applied in published research) |
+| **Databases** | PostgreSQL / PostGIS, DuckDB |
+| **Visualisation & web mapping** | Matplotlib, Seaborn, Plotly, geemap, Leaflet |
 
 ### 📌 Featured work
 - **[Portfolio website](https://asifmarazi.github.io/my-portfolio/)**: my research, skills and experience
