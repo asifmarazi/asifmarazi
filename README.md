@@ -1,6 +1,6 @@
 # Hi, I'm Asif Marazi 👋
 
-**Researcher · Climate Change · Cryosphere & Hydrology · Remote Sensing / GIS · Geospatial Data Analysis**
+**Researcher · Climate Change · Cryosphere & Hydrology · Remote Sensing / GIS · Geospatial Data Analysis**<br>
 University of Kashmir, Srinagar
 
 I study how climate change affects water resources in the Himalaya, especially **snow cover, glaciers and streamflow**. My main tools are **remote sensing** and **GIS**, along with Python-based geospatial data analysis.
