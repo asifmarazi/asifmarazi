@@ -22,8 +22,8 @@ I study how climate change affects water resources in the Himalaya, especially *
 | **Languages** | Python, SQL |
 | **Remote sensing & GIS** | QGIS, ArcGIS, Google Earth Engine (Python API) |
 | **Geospatial Python** | GDAL, Rasterio, GeoPandas, Shapely, Fiona, Xarray |
-| **Data analysis & ML** | NumPy, Pandas, machine learning (applied in published research) |
-| **Databases** | PostgreSQL / PostGIS, DuckDB |
+| **Data analysis & ML** | NumPy, Pandas, scikit-learn (Random Forest classification for mangrove mapping, published) |
+| **Databases** | PostgreSQL / PostGIS |
 | **Visualisation & web mapping** | Matplotlib, Seaborn, Plotly, geemap, Leaflet |
 
 ### 📌 Featured work
